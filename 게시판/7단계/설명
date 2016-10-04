@@ -1,0 +1,12 @@
+각 UI 처리 부분을 클래스로 분활
+
+BaseUI 아래의 기능 클래스들의 공통 부모 클래스로 작성
+메서드 정의
+	public void execute() 
+
+등록 - AddUI
+수정 - ModUI
+삭제 - DelUI
+전체조회 - ListAllUI
+번호조회 - ListOneUI
+종료 - ExitUI

@@ -1,0 +1,13 @@
+- 게시물의 정보에 등록일시 추가
+  1. Board 클래스에 등록일시 속성 추가함
+     : Date regDate
+  2. BoardDAO 클래스에 insertBoard 메서드에 코딩 추가
+  3. ListAllUI : 2016-06-09
+     ListOneUI : 2016-06-09 11:11:11
+
+- ArrayList 클래스에 generic 적용
+  1. 클래스 선언부
+  2. BoardDAO 클래스의 각 메서드
+  3. ListAllUI 클래스
+  
+- 예외처리          

@@ -1,0 +1,9 @@
+- 사용기술
+  ArrayList 클래스 작성 후 적용
+  수정된 부분
+  - BoardDAO, BoardUI
+  
+Test.java : 메인 클래스
+BoardUI   : 최초 게시판 기능 화면 처리 클래스
+Board     : 게시물 데이터 표현 클래스
+BoardDAO  : 게시물 데이터 처리 클래스
